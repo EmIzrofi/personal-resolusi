@@ -1,1 +1,4 @@
 - Membuat website yang dinamis dan responsive
+-Java
+-JavaScript
+-PHP
